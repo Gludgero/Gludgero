@@ -2,7 +2,7 @@
 ![Banner-Nome-DesenvolvedorFullStack](Banner.png )
 <h2 align=center> Seja Bem-Vindo !!</h2>
 
-<p>Desde cedo sou fascinado por tudo que envolve tecnologia, do tipo que desmontava eletrônicos velhos para ver o que tinha dentro mesmo, e foi pensando nisso que decidi deixar meu antigo rumo profissional, à contabilidade, para me dedicar a essa paixão. </p>
+<p>‎  ‎  Desde cedo sou fascinado por tudo que envolve tecnologia, do tipo que desmontava eletrônicos velhos para ver o que tinha dentro mesmo, e foi pensando nisso que decidi deixar meu antigo rumo profissional, à contabilidade, para me dedicar a essa paixão. </p>
 
 ---
 
