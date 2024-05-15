@@ -4,7 +4,7 @@
 ![Banner-Nome-DesenvolvedorFullStack](Banner.png )
 
 
-<p>‎  ‎ ‎  Desde cedo sou fascinado por tudo que envolve tecnologia, do tipo que desmontava eletrônicos velhos para ver o que tinha dentro mesmo, e foi pensando nisso que decidi deixar meu antigo rumo profissional, à contabilidade, para me dedicar a essa paixão. </p>
+<p>‎  ‎ ‎  Desde cedo sou fascinado por tudo que envolve tecnologia, do tipo que desmontava eletrônicos velhos para ver o que tem dentro mesmo, e foi pensando nisso que decidi deixar meu antigo rumo profissional, à contabilidade, para me dedicar a essa paixão. </p>
 
 ---
 > Atualmente cursando <b>Ánalise e Desenvolvimento de sistemas</b> no  <b>Instituto Federal de Ciências e Tecnologia de São Paulo</b> <a href="http://gru.ifsp.edu.br/"><img width="18" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png" /></a>
